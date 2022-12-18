@@ -1,6 +1,6 @@
 /* =======================================================================
 Template Name: Dil Hospital
-Author:  SmartEye Adminpanel
+Author:  SmartEye Adminpanel feat Renat.SH
 Author URI: www.smarteyeapps.com
 Version: 1.0
 coder name:Prabin Raja
@@ -25,10 +25,10 @@ img {
 a {
   text-decoration: none;
   outline: none;
-  color: #444; }
+  color: rgb(0, 0, 0); }
 
 a:hover {
-  color: #444; }
+  color: rgb(0, 0, 0); }
 
 ul {
   margin-bottom: 0;
@@ -76,7 +76,7 @@ p {
   height: 100%; }
 
 ::placeholder {
-  color: #747f8a !important;
+  color: #000000 !important;
   font-size: 13px;
   opacity: .5 !important; }
 
@@ -92,7 +92,7 @@ strong {
 body {
   background-color: #f7f7ff !important;
   font-family: "mouse-300", Arial, Helvetica, sans-serif;
-  color: #6A6A6A; }
+  color: #000000; }
 
 .session-title {
   padding: 30px;
@@ -132,7 +132,7 @@ body {
   .page-nav h2 {
     font-size: 36px;
     width: 100%;
-    color: #444; }
+    color: rgb(0, 0, 0); }
     @media screen and (max-width: 600px) {
       .page-nav h2 {
         font-size: 26px; } }
@@ -144,9 +144,9 @@ body {
     .page-nav ul li i {
       width: 30px;
       text-align: center;
-      color: #444; }
+      color: rgb(0, 0, 0); }
     .page-nav ul li a {
-      color: #444; }
+      color: rgb(0, 0, 0); }
 
 .btn-success {
   background-color: #00ab9f;
@@ -186,7 +186,7 @@ body {
 
 .btn-light {
   background-color: #FFF;
-  color: #3F3F3F; }
+  color: #000000; }
 
 .collapse.show {
   display: block !important; }
@@ -225,8 +225,8 @@ body {
       padding: 0px;
       padding-right: 10px; } }
   .profile-box .left-side {
-    background-color: #00ab9f;
-    color: #FFF;
+    background-color: #57a5e5;
+    color: rgb(0, 0, 0);
     padding: 40px 20px; }
     .profile-box .left-side .profile-info {
       padding: 5px;
@@ -255,7 +255,7 @@ body {
       display: flex;
       padding: 10px 0px; }
       .profile-box .left-side .contact-box .icon {
-        padding: 10px; }
+        padding: 2px; }
         .profile-box .left-side .contact-box .icon i {
           padding: 10px;
           border: 1px solid #FFF;
@@ -306,10 +306,10 @@ body {
   .rit-cover .hotkey h1 {
     width: 100%;
     text-align: right;
-    color: #c7c2c2; }
+    color: #000000; }
   .rit-cover .hotkey small {
     font-size: 1rem;
-    color: #9c9898;
+    color: #000000;
     margin-top: -30px;
     font-weight: 600; }
 .rit-cover .rit-titl {
